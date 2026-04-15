@@ -1,59 +1,46 @@
 # 👋 Hi, I'm Ritu
 
-🎯 Data Analyst | Marketing Analytics | Experimentation & Measurement
-
-I’m a data analyst with 4+ years of experience working on marketing analytics, campaign measurement, and data-driven decision making. I’ve worked with large enterprise clients, helping them understand the real impact of their marketing through experimentation, attribution, and analytics frameworks. ([LinkedIn][1])
+I’m a data analyst with 4+ years of experience turning data into actionable business insights. I specialize in marketing analytics, customer analysis, and experimentation, with strong expertise in data querying, data validation, and reporting to support data-driven decisions.
 
 ## 🚀 What I Do
 
-* 📊 Analyze marketing campaigns to measure **incrementality and lift**
-* 🧪 Design and evaluate **A/B tests & geo experiments**
-* 📈 Build dashboards and reports for **business decision-making**
-* 🎯 Help teams target the **right customer with the right strategy**
-* 🔍 Translate data into **clear, actionable insights**
+* 📊 Perform ad-hoc analysis, data extraction, and campaign performance measurement (lift)
+* 🧪 Design and evaluate A/B tests and experiments (test vs control)
+* 📈 Build dashboards, reports, and KPIs for stakeholders (Power BI, Tableau)
+* 🔍 Work on data cleaning, transformation, and validation to ensure data quality
+* 🎯 Analyze customer behavior, segmentation & targeting strategies
+* ⚙️ Support data pipelines, automation, and reporting efficiency
 
 ## 🛠️ Tech Stack
 
-* **Languages:** SQL, SAS, Python
-* **Visualization:** Power BI, Tableau
-* **Analytics:** Experimentation, Attribution, Customer Analytics
-* **Tools:** Excel, Data Modeling, Reporting Automation
+**SQL • SAS • Python • Power BI • Tableau • Excel**
 
-## 💡 Key Areas of Interest
+## 💡 Focus Areas
 
-* Marketing Science & Measurement
-* Incrementality Testing
-* Customer Behavior & Segmentation
-* Data Storytelling
-* Business Impact Analytics
+* Marketing & Product Analytics
+* Experimentation & Measurement
+* Customer Insights & Segmentation
+* Data Analysis, Reporting & Visualization
+* Data Quality & Process Improvement
 
-## 📌 Featured Work
+## 📌 Projects (Coming Soon)
 
-**Marketing Campaign Lift Analysis**
+Working on real-world analytics projects focused on:
 
-* Measured incremental impact of campaigns using test vs control
-* Identified X% lift and recommended budget reallocation
+* Campaign performance & lift analysis
+* Customer segmentation
+* Automated dashboards
 
-**Customer Segmentation Project**
+## 📈 Currently Growing
 
-* Segmented users based on behavior and demographics
-* Improved targeting efficiency
-
-**Dashboard Automation (Power BI)**
-
-* Automated reporting → reduced manual effort by 25%
-
-## 📈 What I'm Currently Working On
-
-* Strengthening **advanced SQL & analytics skills**
-* Practicing **real-world marketing data problems**
-* Building **end-to-end analytics projects**
+* Advanced SQL & analytics problem-solving
+* End-to-end analytics projects, data modeling & ETL concepts
 
 ## 🤝 Let’s Connect
 
-* 💼 LinkedIn: https://www.linkedin.com/in/ritu-c-27b333202/
+* 💼 [LinkedIn](https://www.linkedin.com/in/ritu-c-27b333202/)
 * 📧 Email: rituchaudhary2424@gmail.com
 
-## ⚡ Fun Fact
+## ⚡ Quick Note
 
-I enjoy breaking down complex analytics concepts (like incrementality & lift) into simple, intuitive explanations. Outside of work, I love playing badminton and running.
+Outside of work, I enjoy going for runs, watching shows, and exploring new places — a mix of staying active and unwinding.
